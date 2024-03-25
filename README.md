@@ -4,6 +4,8 @@
 
 # Calorie Counter Application
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 The Calorie Counter Application is a simple web tool designed to help users track their daily calorie intake against their set budget. By inputting calories consumed for different meals and exercises performed, users can calculate their remaining calorie budget for the day. This README outlines the features of the application and guides on how to set it up and use it.
 
 ## Features
@@ -49,6 +51,14 @@ The application is deployed and can be accessed online, allowing users to immedi
 - `Calculate Calories Button`: Initiates the calorie calculation process.
 - `Clear Form Button`: Clears the form for a fresh start.
 
-Ensure you include the JavaScript file at the end of your HTML file to properly load the script after the HTML content.
+## Contributions
+
+Contributions, issues, and feature requests are welcome. Feel free to check the [GitHub repository](https://github.com/Pav85/calorie-counter) for ways to contribute or to raise an issue.
+
+## License
+
+This project is licensed under the MIT License. For more information, please refer to the [MIT License](https://opensource.org/licenses/MIT).
+
+
 
  
