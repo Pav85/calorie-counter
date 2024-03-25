@@ -63,6 +63,12 @@ function calculateCalories(e) {
   if (isError) {
     return;
   }
+
+  const consumedCalories =
+    breakfastCalories + lunchCalories + dinnerCalories + snacksCalories;
+
+  const remainingCalories =
+    budgetCalories - consumedCalories + exerciseCalories;
 }
 
 function getCaloriesFromInputs(list) {
